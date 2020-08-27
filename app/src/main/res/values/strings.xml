@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TechCompany</string>
+    <string name="tech_name">Nama Perusahaan</string>
+    <string name="detail_tech_comp">Detail Perusahaan</string>
+    <string name="ceo_name_comp">CEO NAME</string>
+    <string name="website_comp">Alamat Website Company</string>
+    <string name="Web_id_comp">Website Company</string>
+    <string name="ceo_tech">CEO : </string>
+    <string name="about_me">About</string>
+    <string name="name_author">Agung Wibowo</string>
+    <string name="email">agungardiyanta@gmail.com</string>
+</resources>
